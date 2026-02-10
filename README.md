@@ -55,7 +55,7 @@
     <div class="profile">
         <img src="https://via.placeholder.com/120" alt="Foto Profil">
         <h1>Muhamad Rizki</h1>
-        <p>Pelajar | Teknik Komputer dan Jaringan</p>
+        <p>SISWA SMKN 1 RANGKASBITUNG| Teknik Jaringan Komputer dan Telekomunikasi</p>
     </div>
 
     <h2>Profil Singkat</h2>
@@ -68,13 +68,13 @@
     <ul>
         <li>Nama: Muhamad Rizki</li>
         <li>Kelas: XII TKJ</li>
-        <li>Email: rizki@email.com</li>
-        <li>No HP: 08xxxxxxxxxx</li>
+        <li>Email: muhamadrizki@email.com</li>
+        <li>No HP: 083899138080</li>
     </ul>
 
     <h2>Pendidikan</h2>
     <ul>
-        <li>SMK - Teknik Komputer dan Jaringan</li>
+        <li>SMKN 1 RANGKASBITUNG- Teknik Jaringan Komputer dan Telekomunikasi</li>
     </ul>
 
     <h2>Pengalaman</h2>
