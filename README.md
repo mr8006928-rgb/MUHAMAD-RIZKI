@@ -6,93 +6,124 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
-            background: #f4f6f8;
+            background: #eef1f5;
             margin: 0;
             padding: 0;
         }
         .container {
-            max-width: 800px;
+            max-width: 850px;
             background: white;
-            margin: 30px auto;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            margin: 40px auto;
+            padding: 35px;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
         }
-        h1 {
-            margin: 0;
-            color: #2c3e50;
-        }
-        h2 {
-            color: #3498db;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 5px;
-        }
-        p, li {
-            color: #555;
-        }
+
+        /* HEADER / PROFIL */
         .profile {
             text-align: center;
+            padding: 30px 20px;
+            background: #3498db;
+            color: white;
+            border-radius: 10px;
         }
         .profile img {
-            width: 120px;
+            width: 140px;
+            height: 140px;
             border-radius: 50%;
-            margin-bottom: 10px;
+            border: 4px solid white;
+            margin-bottom: 15px;
+        }
+        .profile h1 {
+            font-size: 32px;
+            margin: 10px 0 5px;
+        }
+        .profile p {
+            font-size: 20px;
+            margin: 0;
+            opacity: 0.95;
+        }
+
+        /* ISI */
+        h2 {
+            margin-top: 35px;
+            color: #3498db;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 6px;
+            font-size: 22px;
+        }
+        .about {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #444;
+            margin-top: 15px;
         }
         ul {
-            padding-left: 20px;
+            padding-left: 22px;
         }
+        li {
+            font-size: 17px;
+            margin-bottom: 6px;
+        }
+
         .footer {
             text-align: center;
-            margin-top: 30px;
-            color: #888;
+            margin-top: 40px;
             font-size: 14px;
+            color: #888;
         }
     </style>
 </head>
 <body>
 
 <div class="container">
+
+    <!-- PROFIL BESAR -->
     <div class="profile">
-        <img src="IMG-20250722-WA0010.jpeg">
+        <img src="https://via.placeholder.com/140" alt="Foto Profil">
         <h1>Muhamad Rizki</h1>
-        <p>SISWA SMKN 1 RANGKASBITUNG| Teknik Jaringan Komputer dan Telekomunikasi</p>
+        <p>Pelajar SMK | Teknik Komputer dan Jaringan</p>
     </div>
 
-    <h2>Profil Singkat</h2>
-    <p>
-        Saya adalah siswa jurusan TKJ yang memiliki minat di bidang jaringan komputer,
-        konfigurasi perangkat jaringan, dan teknologi informasi.
+    <!-- PROFIL SINGKAT -->
+    <h2>Profil</h2>
+    <p class="about">
+        Saya adalah siswa jurusan Teknik Komputer dan Jaringan yang memiliki
+        minat besar di bidang jaringan komputer, konfigurasi perangkat jaringan,
+        serta teknologi informasi. Terbiasa bekerja secara mandiri maupun tim,
+        dan memiliki pengalaman PKL di instansi pemerintahan.
     </p>
 
     <h2>Data Pribadi</h2>
     <ul>
         <li>Nama: Muhamad Rizki</li>
         <li>Kelas: XII TKJ</li>
-        <li>Email: muhamadrizki@email.com</li>
-        <li>No HP: 083899138080</li>
+        <li>Email: rizki@email.com</li>
+        <li>No HP: 08xxxxxxxxxx</li>
     </ul>
 
     <h2>Pendidikan</h2>
     <ul>
-        <li>SMKN 1 RANGKASBITUNG- Teknik Jaringan Komputer dan Telekomunikasi</li>
+        <li>SMK – Teknik Komputer dan Jaringan</li>
     </ul>
 
     <h2>Pengalaman</h2>
     <ul>
-        <li>PKL di Kominfo / Diskominfo</li>
-        <li>Konfigurasi jaringan LAN & IP Address</li>
+        <li>PKL di Diskominfo / Kominfo</li>
+        <li>Konfigurasi LAN, IP Address, dan dasar Mikrotik</li>
     </ul>
 
     <h2>Keahlian</h2>
     <ul>
-        <li>Jaringan Komputer (LAN, IP Address)</li>
-        <li>Dasar Mikrotik</li>
+        <li>Jaringan Komputer</li>
+        <li>Mikrotik Dasar</li>
         <li>HTML & CSS Dasar</li>
     </ul>
 
     <div class="footer">
         © 2026 - CV Online
     </div>
+
 </div>
 
 </body>
