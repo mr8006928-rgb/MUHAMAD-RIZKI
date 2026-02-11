@@ -53,7 +53,7 @@
 
 <div class="container">
     <div class="profile">
-        <img src="https://via.placeholder.com/120" alt="Foto Profil">
+        <img src="IMG-20250722-WA0010.jpg" alt=">
         <h1>Muhamad Rizki</h1>
         <p>SISWA SMKN 1 RANGKASBITUNG| Teknik Jaringan Komputer dan Telekomunikasi</p>
     </div>
