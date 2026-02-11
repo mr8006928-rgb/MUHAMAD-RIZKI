@@ -80,7 +80,7 @@
 
     <!-- PROFIL BESAR -->
     <div class="profile">
-        <img src="https://via.placeholder.com/140" alt="Foto Profil">
+        <img src="IMG-20250722-WA0010.jpg">
         <h1>Muhamad Rizki</h1>
         <p>Pelajar SMK | Teknik Komputer dan Jaringan</p>
     </div>
@@ -98,8 +98,8 @@
     <ul>
         <li>Nama: Muhamad Rizki</li>
         <li>Kelas: XII TKJ</li>
-        <li>Email: rizki@email.com</li>
-        <li>No HP: 08xxxxxxxxxx</li>
+        <li>Email: muhamadrizki@email.com</li>
+        <li>No HP: 083899138080</li>
     </ul>
 
     <h2>Pendidikan</h2>
