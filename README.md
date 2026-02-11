@@ -53,7 +53,7 @@
 
 <div class="container">
     <div class="profile">
-        <img src="IMG-20250722-WA0010...." alt=">
+        <img src="IMG-20250722-WA0010.jpeg">
         <h1>Muhamad Rizki</h1>
         <p>SISWA SMKN 1 RANGKASBITUNG| Teknik Jaringan Komputer dan Telekomunikasi</p>
     </div>
